@@ -1,9 +1,16 @@
-# DEVils' Elevation Navigation System
-This elevation navigation system is developed by DEVil's Advocates team:
+# Elevation Navigation System
+This system queries from the user:
+<ul>
+    <li> Starting Address
+    <li> Ending Address
+    <li> Elevation Preference
+    <li> Maximum or Minimum Elevation
+</ul>
+and calculates the path based on the inputs given.
+The path is then plotted on the map in real-time. 
 
-- Archana Ganesh
-- Krishna Praneet Gudipaty
-- Om Prakash Prajapath
+## Frontend repo
+https://github.com/OMP-49/elena-frontend/edit/master/README.md
 
 ## Available Scripts
 
